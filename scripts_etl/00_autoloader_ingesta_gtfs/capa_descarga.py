@@ -3,7 +3,7 @@
 import requests, os, zipfile, io
 from datetime import datetime
 
-# Widgets (por si quieres versionar por fecha)
+# Widgets 
 dbutils.widgets.text("RAW_PATH", "abfss://datos@masterjcmtz002sta.dfs.core.windows.net/raw/", "RAW_PATH")
 dbutils.widgets.text("GTFS_URL", "https://sncb-opendata.hafas.de/gtfs/static/c21ac6758dd25af84cca5b707f3cb3de", "GTFS_URL")
 RAW_PATH = dbutils.widgets.get("RAW_PATH").strip()
