@@ -27,6 +27,21 @@ The objective of this thesis was to build a scalable and reliable data ingestion
 - Exposing cleaned data through a REST API for analytical access  
 - Supporting operational and strategic insights for transport analysis# Thesis-BigData-JudithMartinez
 
+ 
+###Legal Notice (SNCB Data License)
+
+This project uses SNCB GTFS open data under the “GTFS Open Data – Standard Licence V3”.
+
+Important:
+
+No original SNCB data files are included in this repository.
+
+Only derived and transformed data (created by me) may be shown.
+
+This repository does not redistribute or rehost SNCB datasets.
+
+The license explicitly states that I retain the intellectual property over the work I create.
+
 ### Tech Stack
 
 - Python · SQL · PySpark  
