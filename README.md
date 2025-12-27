@@ -34,4 +34,4 @@ The objective of this thesis was to build a scalable and reliable data ingestion
 - FastAPI · Delta Lake  
 - LaTeX · Git/GitHub
 ### Document 
-Link: https://github.com/Trolobubu/Thesis-BigData-JudithMartinez/blob/main/Pipeline_ETL_thesis_Report.pdf
+Link: https://github.com/Trolobubu/Thesis-JudithMartinez-Pipeline-ETL-/blob/main/Pipeline_ETL_thesis_Report%20(2).pdf
